@@ -1,0 +1,1 @@
+Hi, this is the contemt created in Node.js I love Node.js
